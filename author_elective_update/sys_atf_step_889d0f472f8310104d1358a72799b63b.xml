@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="DELETE">
+        <active>true</active>
+        <copied_from/>
+        <description>Submit the current form</description>
+        <display_name>Submit a Form</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>5</order>
+        <snapshot/>
+        <step_config display_value="Submit a Form">be8e0a935332120028bc29cac2dc34e4</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-09 08:57:52</sys_created_on>
+        <sys_id>889d0f472f8310104d1358a72799b63b</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Submit a Form</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_atf_step_889d0f472f8310104d1358a72799b63b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-09 09:01:03</sys_updated_on>
+        <table/>
+        <test display_value="When needed - Future">c2ec43472f8310104d1358a72799b6c6</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="DELETE" query="document_key=889d0f472f8310104d1358a72799b63b"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>889d0f472f8310104d1358a72799b63b</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-09 08:57:52</sys_created_on>
+        <sys_id>0c9d0f472f8310104d1358a72799b63c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-09 08:57:52</sys_updated_on>
+        <value/>
+        <variable display_value="">c796d40497302200abe4bb7503ac4ad8</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>889d0f472f8310104d1358a72799b63b</document_key>
+        <order>50</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-09 08:57:52</sys_created_on>
+        <sys_id>cc9d0f472f8310104d1358a72799b63c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-09 08:57:52</sys_updated_on>
+        <value>standard_ui</value>
+        <variable display_value="">ae8b91c9ffa333008d3f5d9ad53bf1ba</variable>
+    </sys_variable_value>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>62f557cddbc37b400ae3ac44d4961993</instance_id>
+        <instance_name>dev90381</instance_name>
+        <name>sys_atf_step_889d0f472f8310104d1358a72799b63b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>Submit the current form</description><display_name>Submit a Form</display_name><inputs/><mugshots_cache_json/><notes/><order>5</order><snapshot/><step_config display_value="Submit a Form">be8e0a935332120028bc29cac2dc34e4</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-09 08:57:52</sys_created_on><sys_id>889d0f472f8310104d1358a72799b63b</sys_id><sys_mod_count>6</sys_mod_count><sys_name>Submit a Form</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_atf_step_889d0f472f8310104d1358a72799b63b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-09 09:01:03</sys_updated_on><table/><test display_value="When needed - Future">c2ec43472f8310104d1358a72799b6c6</test><timeout/><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=889d0f472f8310104d1358a72799b63b"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>889d0f472f8310104d1358a72799b63b</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-09 08:57:52</sys_created_on><sys_id>0c9d0f472f8310104d1358a72799b63c</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-09 08:57:52</sys_updated_on><value/><variable display_value="">c796d40497302200abe4bb7503ac4ad8</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>889d0f472f8310104d1358a72799b63b</document_key><order>50</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-09 08:57:52</sys_created_on><sys_id>cc9d0f472f8310104d1358a72799b63c</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-09 08:57:52</sys_updated_on><value>standard_ui</value><variable display_value="">ae8b91c9ffa333008d3f5d9ad53bf1ba</variable></sys_variable_value></record_update>]]></payload>
+        <payload_hash>-929412553</payload_hash>
+        <record_name>Submit a Form</record_name>
+        <reverted_from/>
+        <source>13dbc3c32f8310104d1358a72799b63a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-09 09:01:03</sys_created_on>
+        <sys_id>3a4e4b872f8310104d1358a72799b6af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1747218d2c10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-09 09:01:03</sys_updated_on>
+        <type>Test Step</type>
+        <update_guid>724e4b876b8310106a0be05678a0faaf</update_guid>
+        <update_guid_history>724e4b876b8310106a0be05678a0faaf:-929412553,2e4e4b87e2831010867658e9886cb69e:276405688,2e4e4b87be83101026bc4880231e4283:1482223929,489d0f470783101057a4c8ee52c2da3e:-1606925126</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-09 09:01:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
+        <sys_id>aa8ad8cdadc74490a0e49ecba15a8890</sys_id>
+        <sys_metadata>889d0f472f8310104d1358a72799b63b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Submit a Form</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_atf_step_889d0f472f8310104d1358a72799b63b</sys_update_name>
+        <sys_update_version display_value="sys_atf_step_889d0f472f8310104d1358a72799b63b">3a4e4b872f8310104d1358a72799b6af</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-09 09:01:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

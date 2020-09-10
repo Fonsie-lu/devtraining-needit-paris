@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="DELETE">
+        <active>true</active>
+        <copied_from/>
+        <description>This step will do nothing. Please provide at least one UI action to assert as visible or not visible.</description>
+        <display_name>UI Action Visibility</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>2</order>
+        <snapshot/>
+        <step_config display_value="UI Action Visibility">d8fdf5e10b1022009cfdc71437673adc</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-09 09:17:11</sys_created_on>
+        <sys_id>c7f15f8f2f8310104d1358a72799b604</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>UI Action Visibility</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_atf_step_c7f15f8f2f8310104d1358a72799b604</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-09 09:21:09</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+        <test display_value="When needed - Future">c2ec43472f8310104d1358a72799b6c6</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="DELETE" query="document_key=c7f15f8f2f8310104d1358a72799b604"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>c7f15f8f2f8310104d1358a72799b604</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-09 09:17:11</sys_created_on>
+        <sys_id>0ff15f8f2f8310104d1358a72799b605</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-09 09:17:11</sys_updated_on>
+        <value/>
+        <variable display_value="">6619c7aa5320220002c6435723dc34e2</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>c7f15f8f2f8310104d1358a72799b604</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-09 09:17:11</sys_created_on>
+        <sys_id>4bf15f8f2f8310104d1358a72799b605</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-09 09:17:11</sys_updated_on>
+        <value/>
+        <variable display_value="">56e6bee65320220002c6435723dc34b9</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>c7f15f8f2f8310104d1358a72799b604</document_key>
+        <order>50</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-09 09:17:11</sys_created_on>
+        <sys_id>87f15f8f2f8310104d1358a72799b605</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-09 09:17:11</sys_updated_on>
+        <value>standard_ui</value>
+        <variable display_value="">bc43e004c76733005e5c45b881c26046</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>c7f15f8f2f8310104d1358a72799b604</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-09 09:17:11</sys_created_on>
+        <sys_id>cff15f8f2f8310104d1358a72799b605</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-09 09:17:11</sys_updated_on>
+        <value>x_58872_needit_needit</value>
+        <variable display_value="">ba62b4075320220002c6435723dc34b9</variable>
+    </sys_variable_value>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>62f557cddbc37b400ae3ac44d4961993</instance_id>
+        <instance_name>dev90381</instance_name>
+        <name>sys_atf_step_c7f15f8f2f8310104d1358a72799b604</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from/><description>This step will do nothing. Please provide at least one UI action to assert as visible or not visible.</description><display_name>UI Action Visibility</display_name><inputs/><mugshots_cache_json/><notes/><order>2</order><snapshot/><step_config display_value="UI Action Visibility">d8fdf5e10b1022009cfdc71437673adc</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-09 09:17:11</sys_created_on><sys_id>c7f15f8f2f8310104d1358a72799b604</sys_id><sys_mod_count>8</sys_mod_count><sys_name>UI Action Visibility</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_atf_step_c7f15f8f2f8310104d1358a72799b604</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-09 09:21:09</sys_updated_on><table>x_58872_needit_needit</table><test display_value="When needed - Future">c2ec43472f8310104d1358a72799b6c6</test><timeout/><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=c7f15f8f2f8310104d1358a72799b604"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>c7f15f8f2f8310104d1358a72799b604</document_key><order>300</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-09 09:17:11</sys_created_on><sys_id>0ff15f8f2f8310104d1358a72799b605</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-09 09:17:11</sys_updated_on><value/><variable display_value="">6619c7aa5320220002c6435723dc34e2</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>c7f15f8f2f8310104d1358a72799b604</document_key><order>200</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-09 09:17:11</sys_created_on><sys_id>4bf15f8f2f8310104d1358a72799b605</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-09 09:17:11</sys_updated_on><value/><variable display_value="">56e6bee65320220002c6435723dc34b9</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>c7f15f8f2f8310104d1358a72799b604</document_key><order>50</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-09 09:17:11</sys_created_on><sys_id>87f15f8f2f8310104d1358a72799b605</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-09 09:17:11</sys_updated_on><value>standard_ui</value><variable display_value="">bc43e004c76733005e5c45b881c26046</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>c7f15f8f2f8310104d1358a72799b604</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-09 09:17:11</sys_created_on><sys_id>cff15f8f2f8310104d1358a72799b605</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-09 09:17:11</sys_updated_on><value>x_58872_needit_needit</value><variable display_value="">ba62b4075320220002c6435723dc34b9</variable></sys_variable_value></record_update>]]></payload>
+        <payload_hash>1594467036</payload_hash>
+        <record_name>UI Action Visibility</record_name>
+        <reverted_from/>
+        <source>13dbc3c32f8310104d1358a72799b63a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-09 09:21:09</sys_created_on>
+        <sys_id>4de29bcf2f8310104d1358a72799b6be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>174722b39170000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-09 09:21:09</sys_updated_on>
+        <type>Test Step</type>
+        <update_guid>85e29bcfae8310103a63eeb19be22dbe</update_guid>
+        <update_guid_history>85e29bcfae8310103a63eeb19be22dbe:1594467036,81e29bcf898310101d1105cbfe489cae:-980702051,38e29bcf1483101042c18eced72d6096:739096158,34e29bcfd3831010edb0590b709c8d64:-1836072929,4ff15f8ffa831010c2194c41837e6707:-116274720</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-09 09:21:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
+        <sys_id>598e5e1a61b04098b2a7339a1c649c51</sys_id>
+        <sys_metadata>c7f15f8f2f8310104d1358a72799b604</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>UI Action Visibility</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_atf_step_c7f15f8f2f8310104d1358a72799b604</sys_update_name>
+        <sys_update_version display_value="sys_atf_step_c7f15f8f2f8310104d1358a72799b604">4de29bcf2f8310104d1358a72799b6be</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-09 09:21:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
